@@ -1,0 +1,45 @@
+Parking system with external camera 
+D:
+cd projectfolders
+python parking_detection.py
+
+Parking system with laptop camera 
+D:
+cd projectfolders
+python parking_detection_lap.py
+
+Traffic Signal System
+D:
+cd projectfolders
+python vehicle_detection.py
+
+Traffic Violation
+D:
+cd projectfolders
+cd TrafficViolationDetection
+python detect_vehicles_violations.py
+
+College cctv parking system
+
+D:
+cd projectfolders
+cd yolo
+python cctv_parking_detection.py
+
+cctv wifi credentials :
+
+PORT NO. 8000
+USERNAME: admin
+IP address: 172.16.101.193/0
+Protocol: rstp://
+Password: SMART@123
+ rtsp://172.16.101.193/0
+ rtsp://admin:SMART123@172.16.101.193/0
+
+python jaad_processor.py --videos D:\projectfolders\TrafficViolationDetection\datasets\raw_data\JAAD_clips --frames D:\projectfolders\TrafficViolationDetection\datasets\processed_data\frames --annotations D:\projectfolders\TrafficViolationDetection\datasets\annotations\JAAD_annotations --sample-rate 10
+
+python bdd100k_video_annotator_optimized.py --videos D:\projectfolders\TrafficViolationDetection\datasets\raw_data\BDD100K\videos\bdd100k\videos\test --output D:\projectfolders\TrafficViolationDetection\datasets\raw_data\BDD100K\annotations\test --model yolov8n.pt --sample-rate 20 --batch-size 8 --workers 2 --conf 0.3
+
+GPU:
+pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu118
+python -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'No GPU')"

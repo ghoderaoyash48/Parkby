@@ -1,0 +1,168 @@
+2025-04-28 13:25:32,505 - INFO - Using GPU: NVIDIA GeForce RTX 4090
+2025-04-28 13:25:32,506 - INFO - OpenCV optimization enabled
+2025-04-28 13:25:32,507 - INFO - Created directory structure at /path/to/unified
+2025-04-28 13:26:59,286 - INFO - Using GPU: NVIDIA GeForce RTX 4090
+2025-04-28 13:26:59,287 - INFO - OpenCV optimization enabled
+2025-04-28 13:26:59,287 - INFO - Created directory structure at C:\projectfolders\ParkAI\unified_dataset
+2025-04-28 13:28:28,355 - INFO - Using GPU: NVIDIA GeForce RTX 4090
+2025-04-28 13:28:28,355 - INFO - OpenCV optimization enabled
+2025-04-28 13:28:28,356 - INFO - Created directory structure at C:\projectfolders\ParkAI\unified_dataset
+2025-04-28 13:28:28,356 - INFO - Processing dataset: BDD100K from C:\projectfolders\ParkAI\data\BDD100K
+2025-04-28 13:28:28,357 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\BDD100K\data.yaml
+2025-04-28 13:28:28,357 - INFO - Completed processing dataset: BDD100K
+2025-04-28 13:28:28,358 - INFO - Processing dataset: motorcycleyolo from C:\projectfolders\ParkAI\data\motorcycleyolo
+2025-04-28 13:28:28,358 - INFO - Processing motorcycleyolo - train from C:\projectfolders\ParkAI\data\motorcycleyolo\train
+2025-04-28 13:28:28,358 - INFO - Found images at C:\projectfolders\ParkAI\data\motorcycleyolo\train\images
+2025-04-28 13:28:28,359 - INFO - Found labels at C:\projectfolders\ParkAI\data\motorcycleyolo\train\labels
+2025-04-28 13:28:40,728 - INFO - Processed 1098 files from motorcycleyolo - train
+2025-04-28 13:28:40,728 - INFO - Processing motorcycleyolo - val from C:\projectfolders\ParkAI\data\motorcycleyolo\valid
+2025-04-28 13:28:40,729 - INFO - Found images at C:\projectfolders\ParkAI\data\motorcycleyolo\valid\images
+2025-04-28 13:28:40,729 - INFO - Found labels at C:\projectfolders\ParkAI\data\motorcycleyolo\valid\labels
+2025-04-28 13:28:44,178 - INFO - Processed 292 files from motorcycleyolo - val
+2025-04-28 13:28:44,178 - INFO - Processing motorcycleyolo - test from C:\projectfolders\ParkAI\data\motorcycleyolo\test
+2025-04-28 13:28:44,180 - INFO - Found images at C:\projectfolders\ParkAI\data\motorcycleyolo\test\images
+2025-04-28 13:28:44,180 - INFO - Found labels at C:\projectfolders\ParkAI\data\motorcycleyolo\test\labels
+2025-04-28 13:28:45,048 - INFO - Processed 72 files from motorcycleyolo - test
+2025-04-28 13:28:45,050 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\motorcycleyolo\data.yaml
+2025-04-28 13:28:45,050 - INFO - Completed processing dataset: motorcycleyolo
+2025-04-28 13:28:45,050 - INFO - Processing dataset: motoryolo from C:\projectfolders\ParkAI\data\motoryolo
+2025-04-28 13:28:45,051 - INFO - Processing motoryolo - train from C:\projectfolders\ParkAI\data\motoryolo\train
+2025-04-28 13:28:45,053 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo\train\images
+2025-04-28 13:28:45,053 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo\train\labels
+2025-04-28 13:28:51,592 - INFO - Processed 614 files from motoryolo - train
+2025-04-28 13:28:51,593 - INFO - Processing motoryolo - val from C:\projectfolders\ParkAI\data\motoryolo\valid
+2025-04-28 13:28:51,594 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo\valid\images
+2025-04-28 13:28:51,594 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo\valid\labels
+2025-04-28 13:28:52,716 - INFO - Processed 111 files from motoryolo - val
+2025-04-28 13:28:52,717 - INFO - Processing motoryolo - test from C:\projectfolders\ParkAI\data\motoryolo\test
+2025-04-28 13:28:52,717 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo\test\images
+2025-04-28 13:28:52,717 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo\test\labels
+2025-04-28 13:28:53,557 - INFO - Processed 82 files from motoryolo - test
+2025-04-28 13:28:53,558 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\motoryolo\data.yaml
+2025-04-28 13:28:53,558 - INFO - Completed processing dataset: motoryolo
+2025-04-28 13:28:53,558 - INFO - Processing dataset: motoryolo2 from C:\projectfolders\ParkAI\data\motoryolo2
+2025-04-28 13:28:53,559 - INFO - Processing motoryolo2 - train from C:\projectfolders\ParkAI\data\motoryolo2\train
+2025-04-28 13:28:53,561 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo2\train\images
+2025-04-28 13:28:53,561 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo2\train\labels
+2025-04-28 13:28:58,361 - INFO - Processed 574 files from motoryolo2 - train
+2025-04-28 13:28:58,361 - INFO - Processing motoryolo2 - val from C:\projectfolders\ParkAI\data\motoryolo2\valid
+2025-04-28 13:28:58,363 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo2\valid\images
+2025-04-28 13:28:58,363 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo2\valid\labels
+2025-04-28 13:28:59,002 - INFO - Processed 82 files from motoryolo2 - val
+2025-04-28 13:28:59,002 - INFO - Processing motoryolo2 - test from C:\projectfolders\ParkAI\data\motoryolo2\test
+2025-04-28 13:28:59,004 - INFO - Found images at C:\projectfolders\ParkAI\data\motoryolo2\test\images
+2025-04-28 13:28:59,005 - INFO - Found labels at C:\projectfolders\ParkAI\data\motoryolo2\test\labels
+2025-04-28 13:28:59,301 - INFO - Processed 40 files from motoryolo2 - test
+2025-04-28 13:28:59,302 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\motoryolo2\data.yaml
+2025-04-28 13:28:59,302 - INFO - Completed processing dataset: motoryolo2
+2025-04-28 13:28:59,302 - INFO - Processing dataset: Otherdata from C:\projectfolders\ParkAI\data\Otherdata
+2025-04-28 13:28:59,304 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Otherdata\data.yaml
+2025-04-28 13:28:59,304 - INFO - Completed processing dataset: Otherdata
+2025-04-28 13:28:59,304 - INFO - Processing dataset: Random from C:\projectfolders\ParkAI\data\Random
+2025-04-28 13:28:59,305 - INFO - Processing Random - train as image mask dataset
+2025-04-28 13:28:59,306 - INFO - Found images at C:\projectfolders\ParkAI\data\Random\train\img
+2025-04-28 13:28:59,306 - INFO - Found mask images at C:\projectfolders\ParkAI\data\Random\train\label
+2025-04-28 13:29:14,295 - INFO - Processed 2975 files from Random - train
+2025-04-28 13:29:14,295 - INFO - Processing Random - val as image mask dataset
+2025-04-28 13:29:14,296 - INFO - Found images at C:\projectfolders\ParkAI\data\Random\val\img
+2025-04-28 13:29:14,297 - INFO - Found mask images at C:\projectfolders\ParkAI\data\Random\val\label
+2025-04-28 13:29:17,326 - INFO - Processed 500 files from Random - val
+2025-04-28 13:29:17,328 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Random\data.yaml
+2025-04-28 13:29:17,328 - INFO - Completed processing dataset: Random
+2025-04-28 13:29:17,328 - INFO - Processing dataset: Traffic Dataset from C:\projectfolders\ParkAI\data\Traffic Dataset
+2025-04-28 13:29:17,329 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Traffic Dataset\data.yaml
+2025-04-28 13:29:17,330 - INFO - Completed processing dataset: Traffic Dataset
+2025-04-28 13:29:17,330 - INFO - Processing dataset: v1yolov8 from C:\projectfolders\ParkAI\data\v1yolov8
+2025-04-28 13:29:17,330 - INFO - Processing v1yolov8 - train from C:\projectfolders\ParkAI\data\v1yolov8\train
+2025-04-28 13:29:17,332 - INFO - Found images at C:\projectfolders\ParkAI\data\v1yolov8\train\images
+2025-04-28 13:29:17,332 - INFO - Found labels at C:\projectfolders\ParkAI\data\v1yolov8\train\labels
+2025-04-28 13:31:29,381 - INFO - Processed 11928 files from v1yolov8 - train
+2025-04-28 13:31:29,382 - INFO - Processing v1yolov8 - val from C:\projectfolders\ParkAI\data\v1yolov8\valid
+2025-04-28 13:31:29,383 - INFO - Found images at C:\projectfolders\ParkAI\data\v1yolov8\valid\images
+2025-04-28 13:31:29,383 - INFO - Found labels at C:\projectfolders\ParkAI\data\v1yolov8\valid\labels
+2025-04-28 13:31:51,642 - INFO - Processed 1992 files from v1yolov8 - val
+2025-04-28 13:31:51,642 - INFO - Processing v1yolov8 - test from C:\projectfolders\ParkAI\data\v1yolov8\test
+2025-04-28 13:31:51,647 - INFO - Found images at C:\projectfolders\ParkAI\data\v1yolov8\test\images
+2025-04-28 13:31:51,648 - INFO - Found labels at C:\projectfolders\ParkAI\data\v1yolov8\test\labels
+2025-04-28 13:32:02,675 - INFO - Processed 980 files from v1yolov8 - test
+2025-04-28 13:32:02,676 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\v1yolov8\data.yaml
+2025-04-28 13:32:02,676 - INFO - Completed processing dataset: v1yolov8
+2025-04-28 13:32:02,676 - INFO - Processing dataset: vehicle dataset from C:\projectfolders\ParkAI\data\vehicle dataset
+2025-04-28 13:32:02,678 - INFO - Processing vehicle dataset - train from C:\projectfolders\ParkAI\data\vehicle dataset\train
+2025-04-28 13:32:02,681 - INFO - Found images at C:\projectfolders\ParkAI\data\vehicle dataset\train\images
+2025-04-28 13:32:02,682 - INFO - Found labels at C:\projectfolders\ParkAI\data\vehicle dataset\train\labels
+2025-04-28 13:32:31,959 - INFO - Processed 2100 files from vehicle dataset - train
+2025-04-28 13:32:31,959 - INFO - Processing vehicle dataset - val from C:\projectfolders\ParkAI\data\vehicle dataset\valid
+2025-04-28 13:32:31,960 - INFO - Found images at C:\projectfolders\ParkAI\data\vehicle dataset\valid\images
+2025-04-28 13:32:31,960 - INFO - Found labels at C:\projectfolders\ParkAI\data\vehicle dataset\valid\labels
+2025-04-28 13:32:43,425 - INFO - Processed 900 files from vehicle dataset - val
+2025-04-28 13:32:43,428 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\vehicle dataset\data.yaml
+2025-04-28 13:32:43,429 - INFO - Completed processing dataset: vehicle dataset
+2025-04-28 13:32:43,429 - INFO - Processing dataset: Vehicles 2 from C:\projectfolders\ParkAI\data\Vehicles 2
+2025-04-28 13:32:43,430 - INFO - Processing Vehicles 2 - train from C:\projectfolders\ParkAI\data\Vehicles 2\train
+2025-04-28 13:32:43,435 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicles 2\train\images
+2025-04-28 13:32:43,435 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicles 2\train\labels
+2025-04-28 13:34:55,339 - INFO - Processed 9779 files from Vehicles 2 - train
+2025-04-28 13:34:55,340 - INFO - Processing Vehicles 2 - val from C:\projectfolders\ParkAI\data\Vehicles 2\valid
+2025-04-28 13:34:55,340 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicles 2\valid\images
+2025-04-28 13:34:55,340 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicles 2\valid\labels
+2025-04-28 13:35:08,446 - INFO - Processed 1138 files from Vehicles 2 - val
+2025-04-28 13:35:08,447 - INFO - Processing Vehicles 2 - test from C:\projectfolders\ParkAI\data\Vehicles 2\test
+2025-04-28 13:35:08,448 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicles 2\test\images
+2025-04-28 13:35:08,449 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicles 2\test\labels
+2025-04-28 13:35:15,177 - INFO - Processed 567 files from Vehicles 2 - test
+2025-04-28 13:35:15,180 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Vehicles 2\data.yaml
+2025-04-28 13:35:15,180 - INFO - Completed processing dataset: Vehicles 2
+2025-04-28 13:35:15,181 - INFO - Processing dataset: Vehicle_Detection from C:\projectfolders\ParkAI\data\Vehicle_Detection
+2025-04-28 13:35:15,182 - INFO - Processing Vehicle_Detection - train from C:\projectfolders\ParkAI\data\Vehicle_Detection\train
+2025-04-28 13:35:15,186 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicle_Detection\train\images
+2025-04-28 13:35:15,186 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicle_Detection\train\labels
+2025-04-28 13:37:11,666 - INFO - Processed 10127 files from Vehicle_Detection - train
+2025-04-28 13:37:11,668 - INFO - Processing Vehicle_Detection - val from C:\projectfolders\ParkAI\data\Vehicle_Detection\valid
+2025-04-28 13:37:11,672 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicle_Detection\valid\images
+2025-04-28 13:37:11,672 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicle_Detection\valid\labels
+2025-04-28 13:37:45,659 - INFO - Processed 2692 files from Vehicle_Detection - val
+2025-04-28 13:37:45,659 - INFO - Processing Vehicle_Detection - test from C:\projectfolders\ParkAI\data\Vehicle_Detection\test
+2025-04-28 13:37:45,661 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicle_Detection\test\images
+2025-04-28 13:37:45,661 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicle_Detection\test\labels
+2025-04-28 13:38:00,635 - INFO - Processed 1141 files from Vehicle_Detection - test
+2025-04-28 13:38:00,636 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Vehicle_Detection\data.yaml
+2025-04-28 13:38:00,637 - INFO - Completed processing dataset: Vehicle_Detection
+2025-04-28 13:38:00,637 - INFO - Processing dataset: Vehicle_Detection_Image from C:\projectfolders\ParkAI\data\Vehicle_Detection_Image
+2025-04-28 13:38:00,637 - INFO - Processing Vehicle_Detection_Image - train from C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\train
+2025-04-28 13:38:00,639 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\train\images
+2025-04-28 13:38:00,639 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\train\labels
+2025-04-28 13:38:08,193 - INFO - Processed 536 files from Vehicle_Detection_Image - train
+2025-04-28 13:38:08,193 - INFO - Processing Vehicle_Detection_Image - val from C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\valid
+2025-04-28 13:38:08,195 - INFO - Found images at C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\valid\images
+2025-04-28 13:38:08,195 - INFO - Found labels at C:\projectfolders\ParkAI\data\Vehicle_Detection_Image\valid\labels
+2025-04-28 13:38:09,437 - INFO - Processed 90 files from Vehicle_Detection_Image - val
+2025-04-28 13:38:09,438 - INFO - Created data.yaml at C:\projectfolders\ParkAI\processed_data\Vehicle_Detection_Image\data.yaml
+2025-04-28 13:38:09,439 - INFO - Completed processing dataset: Vehicle_Detection_Image
+2025-04-28 13:38:09,439 - INFO - Created data.yaml at C:\projectfolders\ParkAI\unified_dataset\data.yaml
+2025-04-28 13:41:59,959 - INFO - === Unified Dataset Statistics ===
+2025-04-28 13:41:59,959 - INFO - 
+TRAIN set:
+2025-04-28 13:41:59,959 - INFO -   Total images: 79462
+2025-04-28 13:41:59,960 - INFO -   bike: 41685 instances
+2025-04-28 13:41:59,960 - INFO -   bus: 32829 instances
+2025-04-28 13:41:59,960 - INFO -   car: 61023 instances
+2025-04-28 13:41:59,960 - INFO -   truck: 22063 instances
+2025-04-28 13:41:59,960 - INFO - 
+VAL set:
+2025-04-28 13:41:59,960 - INFO -   Total images: 15594
+2025-04-28 13:41:59,960 - INFO -   bike: 6201 instances
+2025-04-28 13:41:59,960 - INFO -   bus: 5207 instances
+2025-04-28 13:41:59,960 - INFO -   car: 6807 instances
+2025-04-28 13:41:59,960 - INFO -   truck: 3425 instances
+2025-04-28 13:41:59,961 - INFO - 
+TEST set:
+2025-04-28 13:41:59,961 - INFO -   Total images: 5764
+2025-04-28 13:41:59,961 - INFO -   bike: 1786 instances
+2025-04-28 13:41:59,961 - INFO -   bus: 1448 instances
+2025-04-28 13:41:59,961 - INFO -   car: 2888 instances
+2025-04-28 13:41:59,961 - INFO -   truck: 1348 instances
+2025-04-28 13:41:59,961 - INFO - 
+Preprocessing completed. Unified dataset created successfully!
+2025-04-28 13:41:59,961 - INFO - Unified dataset location: C:\projectfolders\ParkAI\unified_dataset
+2025-04-28 13:41:59,961 - INFO - Use C:\projectfolders\ParkAI\unified_dataset\data.yaml for YOLOv8 training
